@@ -3,7 +3,7 @@ Este repositório reúne uma coleção de pequenos projetos e desafios de interf
 
 ## Projetos Concluídos
 
-**03. Social Links Profile** | Iniciante | HTML5, CSS3 (Flexbox) |
+**03. Social Links Profile** | Iniciante | HTML5, CSS3 (Flexbox) | [Deploy](https://vinicius-duarte837.github.io/Desafios-FrontEnd/03-social-links-profile/)
 
 ## Objetivos de Aprendizado
 
