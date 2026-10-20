@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./Screenshot.png)
+![Screenshot](./assets/images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [GitHub Pages](https://vinicius-duarte837.github.io/Blog-Preview-Card/)
+- Solution URL: [GitHub Pages](https://vinicius-duarte837.github.io/Desafios-FrontEnd/02-blog-preview-card/)
 
 ## My process
 
