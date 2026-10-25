@@ -6,6 +6,7 @@ Este repositório reúne uma coleção de pequenos projetos e desafios de interf
 - **01. QR Code** | Iniciante | HTML5, CSS3 | [Deploy](https://vinicius-duarte837.github.io/Desafios-FrontEnd/01-qr-code/)
 - **02. Blog Preview Card** | Iniciante | HTML5, CSS3 (Flexbox) | [Deploy](https://vinicius-duarte837.github.io/Desafios-FrontEnd/02-blog-preview-card/)
 - **03. Social Links Profile** | Iniciante | HTML5, CSS3 (Flexbox) | [Deploy](https://vinicius-duarte837.github.io/Desafios-FrontEnd/03-social-links-profile/)
+- **04. Profile Card Component** | Iniciante | HTML5, CSS3 (Flexbox) | [Deploy](https://vinicius-duarte837.github.io/Desafios-FrontEnd/04-profile-card-component/)
 
 ## Objetivos de Aprendizado
 
